@@ -1,0 +1,103 @@
+
+---OUTPUT LOG---
+- Jan: 741  -
+- Feb: 52  -
+- Mar: 42  -
+- Apr: 6  -
+- May: 82  -
+- Jun: 770  -
+- Jul: 320  -
+- Aug: 31  -
+- Sep: 4  -
+- Oct: 9  -
+- Nov: 2  -
+- Dec: 2  -
+-             -
+TOTAL: 2061
+AREA MELTED in KM^2: 51525
+---------------
+---OUTPUT LOG---
+- Jan: 21115  -
+- Feb: 21511  -
+- Mar: 25493  -
+- Apr: 25100  -
+- May: 27971  -
+- Jun: 39033  -
+- Jul: 58212  -
+- Aug: 63101  -
+- Sep: 61405  -
+- Oct: 63622  -
+- Nov: 61729  -
+- Dec: 63848  -
+-             -
+TOTAL: 532140
+AREA MELTED in KM^2: 13303500
+---------------
+---OUTPUT LOG---
+- Jan: 741  -
+- Feb: 52  -
+- Mar: 42  -
+- Apr: 6  -
+- May: 82  -
+- Jun: 770  -
+- Jul: 320  -
+- Aug: 31  -
+- Sep: 4  -
+- Oct: 9  -
+- Nov: 2  -
+- Dec: 2  -
+-             -
+TOTAL: 2061
+AREA MELTED in KM^2: 51525
+---------------
+---OUTPUT LOG---
+- Jan: 741  -
+- Feb: 763  -
+- Mar: 94  -
+- Apr: 6  -
+- May: 82  -
+- Jun: 770  -
+- Jul: 320  -
+- Aug: 31  -
+- Sep: 4  -
+- Oct: 9  -
+- Nov: 2  -
+- Dec: 2  -
+-             -
+TOTAL: 2824
+AREA MELTED in KM^2: 70600
+---------------
+---OUTPUT LOG---
+- Jan: 21115  -
+- Feb: 21511  -
+- Mar: 25493  -
+- Apr: 25100  -
+- May: 27971  -
+- Jun: 39033  -
+- Jul: 58212  -
+- Aug: 63101  -
+- Sep: 61405  -
+- Oct: 63622  -
+- Nov: 61729  -
+- Dec: 63848  -
+-             -
+TOTAL: 532140
+AREA MELTED in KM^2: 13303500
+---------------
+---OUTPUT LOG---
+- Jan: 741  -
+- Feb: 52  -
+- Mar: 42  -
+- Apr: 6  -
+- May: 82  -
+- Jun: 770  -
+- Jul: 320  -
+- Aug: 31  -
+- Sep: 4  -
+- Oct: 9  -
+- Nov: 2  -
+- Dec: 2  -
+-             -
+TOTAL: 2061
+AREA MELTED in KM^2: 1288125
+---------------
